@@ -3,7 +3,7 @@ This repository  connects  mongodb with elasticsearch. It inserts multiples csv 
 indexes all these collections to elasticsearch. A template of elasticsearch settings currently exists in `config.json` but changes can be made to it.
 
 ##### USAGE:  
-```python mongo_elasticsearch_connector.py```  
+```python mongo_elastic_connector.py```  
 
 Change the `fs_src` and `result_keys` in `config.json` according to the need.
 `fs_src` is the source location of the csv files
