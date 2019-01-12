@@ -9,3 +9,6 @@ indexes all these collections to elasticsearch. A template of elasticsearch sett
 * `fs_src` is the source location of the csv files
 * `result_keys` are the column names that needs to be indexed into elasticsearch.
 * Change the name of the column on which elasticsearch settings must be applied. Currently `passage_text` is the mapping on which elasticsearch settings is applied. Change it to the column of interest.
+
+##### NOTE:
+Elasticsearch and mongo server must be up!!
