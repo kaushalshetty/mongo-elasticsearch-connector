@@ -38,7 +38,7 @@
             }
          }
     },
-    "fs_src":"file_location.csv"
+    "fs_src":"file_location.csv",
     "result_keys":["columns_to_index","index","_type"], 
     "mongo_settings":{
     "username":"",
